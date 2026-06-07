@@ -1,0 +1,23 @@
+{
+  "name": "fe-lwc-skill",
+  "version": "1.0.0",
+  "description": "LWC Frontend Skill for AI Agents (Claude Code, Cursor, Gemini CLI, Continue.dev)",
+  "type": "module",
+  "bin": {
+    "fe-lwc-skill": "./bin/index.js"
+  },
+  "files": [
+    "bin/",
+    "skill/"
+  ],
+  "keywords": [
+    "lwc",
+    "salesforce",
+    "lightning-web-components",
+    "ai-skill",
+    "claude-code",
+    "cursor",
+    "gemini"
+  ],
+  "license": "MIT"
+}
